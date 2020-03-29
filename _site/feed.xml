@@ -3,8 +3,8 @@
     <generator uri="https://github.com/maxvoltar/photo-stream">Photo Stream by @maxvoltar</generator>
     <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml" />
     <link href="http://localhost:4000" rel="alternate" type="text/html"/>
-    <updated>2020-03-29T15:29:34-05:00</updated>
-    <id>2020-03-29T15:29:34-05:00</id>
+    <updated>2020-03-29T16:16:09-05:00</updated>
+    <id>2020-03-29T16:16:09-05:00</id>
     <title type="html">Hallie Marie Carson</title>
     <subtitle></subtitle>
     <author>
@@ -12,343 +12,122 @@
       <uri>https://halliecarson.com</uri>
     </author>
     <entry>
-      <title type="html">Stubborn</title>
-      <link href="http://localhost:4000stubborn/" rel="alternate" type="text/html" title="Stubborn" />
-      <published>2020-03-12T22:06:58-05:00</published>
-      <updated>2020-03-12T22:06:58-05:00</updated>
-      <id>http://localhost:4000/stubborn/</id>
+      <title type="html">hallie-7</title>
+      <link href="http://localhost:4000hallie-7/" rel="alternate" type="text/html" title="hallie-7" />
+      <published>2020-03-29T16:10:43-05:00</published>
+      <updated>2020-03-29T16:10:43-05:00</updated>
+      <id>http://localhost:4000/hallie-7/</id>
       <content type="html">
-        <![CDATA[<figure><a href="http://localhost:4000stubborn/"><img src="http://localhost:4000/photos/large/Stubborn-686656.jpg" alt="Stubborn" /></a></figure>
+        <![CDATA[<figure><a href="http://localhost:4000hallie-7/"><img src="http://localhost:4000/photos/large/hallie-7-686656.jpg" alt="hallie-7" /></a></figure>
       ]]>
     </content>
     <author>
       <name>Clay Carson</name>
       <uri>https://halliecarson.com</uri>
     </author>
-    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Stubborn-686656.jpg" />
-      <media:content medium="image" url="http://localhost:4000/photos/large/Stubborn-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/hallie-7-686656.jpg" />
+      <media:content medium="image" url="http://localhost:4000/photos/large/hallie-7-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
       </entry>
       <entry>
-        <title type="html">Peak</title>
-        <link href="http://localhost:4000peak/" rel="alternate" type="text/html" title="Peak" />
-        <published>2020-03-12T21:59:21-05:00</published>
-        <updated>2020-03-12T21:59:21-05:00</updated>
-        <id>http://localhost:4000/peak/</id>
+        <title type="html">hallie-6</title>
+        <link href="http://localhost:4000hallie-6/" rel="alternate" type="text/html" title="hallie-6" />
+        <published>2020-03-29T16:10:41-05:00</published>
+        <updated>2020-03-29T16:10:41-05:00</updated>
+        <id>http://localhost:4000/hallie-6/</id>
         <content type="html">
-          <![CDATA[<figure><a href="http://localhost:4000peak/"><img src="http://localhost:4000/photos/large/Peak-686656.jpg" alt="Peak" /></a></figure>
+          <![CDATA[<figure><a href="http://localhost:4000hallie-6/"><img src="http://localhost:4000/photos/large/hallie-6-686656.jpg" alt="hallie-6" /></a></figure>
         ]]>
       </content>
       <author>
         <name>Clay Carson</name>
         <uri>https://halliecarson.com</uri>
       </author>
-      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Peak-686656.jpg" />
-        <media:content medium="image" url="http://localhost:4000/photos/large/Peak-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/hallie-6-686656.jpg" />
+        <media:content medium="image" url="http://localhost:4000/photos/large/hallie-6-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
         </entry>
         <entry>
-          <title type="html">Escalators Behind Glass</title>
-          <link href="http://localhost:4000escalators-behind-glass/" rel="alternate" type="text/html" title="Escalators Behind Glass" />
-          <published>2020-03-12T21:59:02-05:00</published>
-          <updated>2020-03-12T21:59:02-05:00</updated>
-          <id>http://localhost:4000/escalators-behind-glass/</id>
+          <title type="html">hallie-5</title>
+          <link href="http://localhost:4000hallie-5/" rel="alternate" type="text/html" title="hallie-5" />
+          <published>2020-03-29T16:10:41-05:00</published>
+          <updated>2020-03-29T16:10:41-05:00</updated>
+          <id>http://localhost:4000/hallie-5/</id>
           <content type="html">
-            <![CDATA[<figure><a href="http://localhost:4000escalators-behind-glass/"><img src="http://localhost:4000/photos/large/Escalators%20Behind%20Glass-686656.jpg" alt="Escalators Behind Glass" /></a></figure>
+            <![CDATA[<figure><a href="http://localhost:4000hallie-5/"><img src="http://localhost:4000/photos/large/hallie-5-686656.jpg" alt="hallie-5" /></a></figure>
           ]]>
         </content>
         <author>
           <name>Clay Carson</name>
           <uri>https://halliecarson.com</uri>
         </author>
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Escalators%20Behind%20Glass-686656.jpg" />
-          <media:content medium="image" url="http://localhost:4000/photos/large/Escalators%20Behind%20Glass-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/hallie-5-686656.jpg" />
+          <media:content medium="image" url="http://localhost:4000/photos/large/hallie-5-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
           </entry>
           <entry>
-            <title type="html">Found Colors</title>
-            <link href="http://localhost:4000found-colors/" rel="alternate" type="text/html" title="Found Colors" />
-            <published>2020-03-12T21:59:01-05:00</published>
-            <updated>2020-03-12T21:59:01-05:00</updated>
-            <id>http://localhost:4000/found-colors/</id>
+            <title type="html">hallie-4</title>
+            <link href="http://localhost:4000hallie-4/" rel="alternate" type="text/html" title="hallie-4" />
+            <published>2020-03-29T16:10:38-05:00</published>
+            <updated>2020-03-29T16:10:38-05:00</updated>
+            <id>http://localhost:4000/hallie-4/</id>
             <content type="html">
-              <![CDATA[<figure><a href="http://localhost:4000found-colors/"><img src="http://localhost:4000/photos/large/Found%20Colors-686656.jpg" alt="Found Colors" /></a></figure>
+              <![CDATA[<figure><a href="http://localhost:4000hallie-4/"><img src="http://localhost:4000/photos/large/hallie-4-686656.jpg" alt="hallie-4" /></a></figure>
             ]]>
           </content>
           <author>
             <name>Clay Carson</name>
             <uri>https://halliecarson.com</uri>
           </author>
-          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Found%20Colors-686656.jpg" />
-            <media:content medium="image" url="http://localhost:4000/photos/large/Found%20Colors-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/hallie-4-686656.jpg" />
+            <media:content medium="image" url="http://localhost:4000/photos/large/hallie-4-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
             </entry>
             <entry>
-              <title type="html">Tiled</title>
-              <link href="http://localhost:4000tiled/" rel="alternate" type="text/html" title="Tiled" />
-              <published>2020-03-12T21:59:00-05:00</published>
-              <updated>2020-03-12T21:59:00-05:00</updated>
-              <id>http://localhost:4000/tiled/</id>
+              <title type="html">hallie-3</title>
+              <link href="http://localhost:4000hallie-3/" rel="alternate" type="text/html" title="hallie-3" />
+              <published>2020-03-29T16:10:37-05:00</published>
+              <updated>2020-03-29T16:10:37-05:00</updated>
+              <id>http://localhost:4000/hallie-3/</id>
               <content type="html">
-                <![CDATA[<figure><a href="http://localhost:4000tiled/"><img src="http://localhost:4000/photos/large/Tiled-686656.jpg" alt="Tiled" /></a></figure>
+                <![CDATA[<figure><a href="http://localhost:4000hallie-3/"><img src="http://localhost:4000/photos/large/hallie-3-686656.jpg" alt="hallie-3" /></a></figure>
               ]]>
             </content>
             <author>
               <name>Clay Carson</name>
               <uri>https://halliecarson.com</uri>
             </author>
-            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Tiled-686656.jpg" />
-              <media:content medium="image" url="http://localhost:4000/photos/large/Tiled-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/hallie-3-686656.jpg" />
+              <media:content medium="image" url="http://localhost:4000/photos/large/hallie-3-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
               </entry>
               <entry>
-                <title type="html">Up To Where The Trains Are</title>
-                <link href="http://localhost:4000up-to-where-the-trains-are/" rel="alternate" type="text/html" title="Up To Where The Trains Are" />
-                <published>2020-02-18T22:17:45-06:00</published>
-                <updated>2020-02-18T22:17:45-06:00</updated>
-                <id>http://localhost:4000/up-to-where-the-trains-are/</id>
+                <title type="html">hallie-2</title>
+                <link href="http://localhost:4000hallie-2/" rel="alternate" type="text/html" title="hallie-2" />
+                <published>2020-03-29T16:10:34-05:00</published>
+                <updated>2020-03-29T16:10:34-05:00</updated>
+                <id>http://localhost:4000/hallie-2/</id>
                 <content type="html">
-                  <![CDATA[<figure><a href="http://localhost:4000up-to-where-the-trains-are/"><img src="http://localhost:4000/photos/large/Up%20To%20Where%20The%20Trains%20Are-686656.jpg" alt="Up To Where The Trains Are" /></a></figure>
+                  <![CDATA[<figure><a href="http://localhost:4000hallie-2/"><img src="http://localhost:4000/photos/large/hallie-2-686656.jpg" alt="hallie-2" /></a></figure>
                 ]]>
               </content>
               <author>
                 <name>Clay Carson</name>
                 <uri>https://halliecarson.com</uri>
               </author>
-              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Up%20To%20Where%20The%20Trains%20Are-686656.jpg" />
-                <media:content medium="image" url="http://localhost:4000/photos/large/Up%20To%20Where%20The%20Trains%20Are-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/hallie-2-686656.jpg" />
+                <media:content medium="image" url="http://localhost:4000/photos/large/hallie-2-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                 </entry>
                 <entry>
-                  <title type="html">Selfie</title>
-                  <link href="http://localhost:4000selfie/" rel="alternate" type="text/html" title="Selfie" />
-                  <published>2020-02-18T22:17:15-06:00</published>
-                  <updated>2020-02-18T22:17:15-06:00</updated>
-                  <id>http://localhost:4000/selfie/</id>
+                  <title type="html">hallie-1</title>
+                  <link href="http://localhost:4000hallie-1/" rel="alternate" type="text/html" title="hallie-1" />
+                  <published>2020-03-29T16:10:34-05:00</published>
+                  <updated>2020-03-29T16:10:34-05:00</updated>
+                  <id>http://localhost:4000/hallie-1/</id>
                   <content type="html">
-                    <![CDATA[<figure><a href="http://localhost:4000selfie/"><img src="http://localhost:4000/photos/large/Selfie-686656.jpg" alt="Selfie" /></a></figure>
+                    <![CDATA[<figure><a href="http://localhost:4000hallie-1/"><img src="http://localhost:4000/photos/large/hallie-1-686656.jpg" alt="hallie-1" /></a></figure>
                   ]]>
                 </content>
                 <author>
                   <name>Clay Carson</name>
                   <uri>https://halliecarson.com</uri>
                 </author>
-                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Selfie-686656.jpg" />
-                  <media:content medium="image" url="http://localhost:4000/photos/large/Selfie-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/hallie-1-686656.jpg" />
+                  <media:content medium="image" url="http://localhost:4000/photos/large/hallie-1-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
                   </entry>
-                  <entry>
-                    <title type="html">Last Christmas Location</title>
-                    <link href="http://localhost:4000last-christmas-location/" rel="alternate" type="text/html" title="Last Christmas Location" />
-                    <published>2020-02-18T22:17:07-06:00</published>
-                    <updated>2020-02-18T22:17:07-06:00</updated>
-                    <id>http://localhost:4000/last-christmas-location/</id>
-                    <content type="html">
-                      <![CDATA[<figure><a href="http://localhost:4000last-christmas-location/"><img src="http://localhost:4000/photos/large/Last%20Christmas%20Location-686656.jpg" alt="Last Christmas Location" /></a></figure>
-                    ]]>
-                  </content>
-                  <author>
-                    <name>Clay Carson</name>
-                    <uri>https://halliecarson.com</uri>
-                  </author>
-                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Last%20Christmas%20Location-686656.jpg" />
-                    <media:content medium="image" url="http://localhost:4000/photos/large/Last%20Christmas%20Location-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
-                    </entry>
-                    <entry>
-                      <title type="html">Overlap & Connections</title>
-                      <link href="http://localhost:4000overlap-connections/" rel="alternate" type="text/html" title="Overlap & Connections" />
-                      <published>2020-02-18T22:16:13-06:00</published>
-                      <updated>2020-02-18T22:16:13-06:00</updated>
-                      <id>http://localhost:4000/overlap-connections/</id>
-                      <content type="html">
-                        <![CDATA[<figure><a href="http://localhost:4000overlap-connections/"><img src="http://localhost:4000/photos/large/Overlap%20&%20Connections-686656.jpg" alt="Overlap & Connections" /></a></figure>
-                      ]]>
-                    </content>
-                    <author>
-                      <name>Clay Carson</name>
-                      <uri>https://halliecarson.com</uri>
-                    </author>
-                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Overlap%20&%20Connections-686656.jpg" />
-                      <media:content medium="image" url="http://localhost:4000/photos/large/Overlap%20&%20Connections-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
-                      </entry>
-                      <entry>
-                        <title type="html">London Calling</title>
-                        <link href="http://localhost:4000london-calling/" rel="alternate" type="text/html" title="London Calling" />
-                        <published>2020-02-18T22:16:12-06:00</published>
-                        <updated>2020-02-18T22:16:12-06:00</updated>
-                        <id>http://localhost:4000/london-calling/</id>
-                        <content type="html">
-                          <![CDATA[<figure><a href="http://localhost:4000london-calling/"><img src="http://localhost:4000/photos/large/London%20Calling-686656.jpg" alt="London Calling" /></a></figure>
-                        ]]>
-                      </content>
-                      <author>
-                        <name>Clay Carson</name>
-                        <uri>https://halliecarson.com</uri>
-                      </author>
-                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/London%20Calling-686656.jpg" />
-                        <media:content medium="image" url="http://localhost:4000/photos/large/London%20Calling-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
-                        </entry>
-                        <entry>
-                          <title type="html">Moody Skies</title>
-                          <link href="http://localhost:4000moody-skies/" rel="alternate" type="text/html" title="Moody Skies" />
-                          <published>2020-02-11T17:06:37-06:00</published>
-                          <updated>2020-02-11T17:06:37-06:00</updated>
-                          <id>http://localhost:4000/moody-skies/</id>
-                          <content type="html">
-                            <![CDATA[<figure><a href="http://localhost:4000moody-skies/"><img src="http://localhost:4000/photos/large/Moody%20Skies-686656.jpeg" alt="Moody Skies" /></a></figure>
-                          ]]>
-                        </content>
-                        <author>
-                          <name>Clay Carson</name>
-                          <uri>https://halliecarson.com</uri>
-                        </author>
-                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Moody%20Skies-686656.jpeg" />
-                          <media:content medium="image" url="http://localhost:4000/photos/large/Moody%20Skies-686656.jpeg" xmlns:media="http://search.yahoo.com/mrss/" />
-                          </entry>
-                          <entry>
-                            <title type="html">Angled Landscape</title>
-                            <link href="http://localhost:4000angled-landscape/" rel="alternate" type="text/html" title="Angled Landscape" />
-                            <published>2020-02-03T13:30:09-06:00</published>
-                            <updated>2020-02-03T13:30:09-06:00</updated>
-                            <id>http://localhost:4000/angled-landscape/</id>
-                            <content type="html">
-                              <![CDATA[<figure><a href="http://localhost:4000angled-landscape/"><img src="http://localhost:4000/photos/large/Angled%20Landscape-686656.jpg" alt="Angled Landscape" /></a></figure>
-                            ]]>
-                          </content>
-                          <author>
-                            <name>Clay Carson</name>
-                            <uri>https://halliecarson.com</uri>
-                          </author>
-                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Angled%20Landscape-686656.jpg" />
-                            <media:content medium="image" url="http://localhost:4000/photos/large/Angled%20Landscape-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
-                            </entry>
-                            <entry>
-                              <title type="html">New Windmill</title>
-                              <link href="http://localhost:4000new-windmill/" rel="alternate" type="text/html" title="New Windmill" />
-                              <published>2020-02-03T13:30:00-06:00</published>
-                              <updated>2020-02-03T13:30:00-06:00</updated>
-                              <id>http://localhost:4000/new-windmill/</id>
-                              <content type="html">
-                                <![CDATA[<figure><a href="http://localhost:4000new-windmill/"><img src="http://localhost:4000/photos/large/New%20Windmill-686656.jpg" alt="New Windmill" /></a></figure>
-                              ]]>
-                            </content>
-                            <author>
-                              <name>Clay Carson</name>
-                              <uri>https://halliecarson.com</uri>
-                            </author>
-                            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/New%20Windmill-686656.jpg" />
-                              <media:content medium="image" url="http://localhost:4000/photos/large/New%20Windmill-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
-                              </entry>
-                              <entry>
-                                <title type="html">Old Windmill</title>
-                                <link href="http://localhost:4000old-windmill/" rel="alternate" type="text/html" title="Old Windmill" />
-                                <published>2020-02-03T13:29:57-06:00</published>
-                                <updated>2020-02-03T13:29:57-06:00</updated>
-                                <id>http://localhost:4000/old-windmill/</id>
-                                <content type="html">
-                                  <![CDATA[<figure><a href="http://localhost:4000old-windmill/"><img src="http://localhost:4000/photos/large/Old%20Windmill-686656.jpg" alt="Old Windmill" /></a></figure>
-                                ]]>
-                              </content>
-                              <author>
-                                <name>Clay Carson</name>
-                                <uri>https://halliecarson.com</uri>
-                              </author>
-                              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Old%20Windmill-686656.jpg" />
-                                <media:content medium="image" url="http://localhost:4000/photos/large/Old%20Windmill-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
-                                </entry>
-                                <entry>
-                                  <title type="html">Sheep</title>
-                                  <link href="http://localhost:4000sheep/" rel="alternate" type="text/html" title="Sheep" />
-                                  <published>2020-02-03T13:29:37-06:00</published>
-                                  <updated>2020-02-03T13:29:37-06:00</updated>
-                                  <id>http://localhost:4000/sheep/</id>
-                                  <content type="html">
-                                    <![CDATA[<figure><a href="http://localhost:4000sheep/"><img src="http://localhost:4000/photos/large/Sheep-686656.jpg" alt="Sheep" /></a></figure>
-                                  ]]>
-                                </content>
-                                <author>
-                                  <name>Clay Carson</name>
-                                  <uri>https://halliecarson.com</uri>
-                                </author>
-                                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Sheep-686656.jpg" />
-                                  <media:content medium="image" url="http://localhost:4000/photos/large/Sheep-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
-                                  </entry>
-                                  <entry>
-                                    <title type="html">Hidden Lighthouse</title>
-                                    <link href="http://localhost:4000hidden-lighthouse/" rel="alternate" type="text/html" title="Hidden Lighthouse" />
-                                    <published>2020-02-03T13:29:34-06:00</published>
-                                    <updated>2020-02-03T13:29:34-06:00</updated>
-                                    <id>http://localhost:4000/hidden-lighthouse/</id>
-                                    <content type="html">
-                                      <![CDATA[<figure><a href="http://localhost:4000hidden-lighthouse/"><img src="http://localhost:4000/photos/large/Hidden%20Lighthouse-686656.jpg" alt="Hidden Lighthouse" /></a></figure>
-                                    ]]>
-                                  </content>
-                                  <author>
-                                    <name>Clay Carson</name>
-                                    <uri>https://halliecarson.com</uri>
-                                  </author>
-                                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Hidden%20Lighthouse-686656.jpg" />
-                                    <media:content medium="image" url="http://localhost:4000/photos/large/Hidden%20Lighthouse-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
-                                    </entry>
-                                    <entry>
-                                      <title type="html">Development</title>
-                                      <link href="http://localhost:4000development/" rel="alternate" type="text/html" title="Development" />
-                                      <published>2020-01-06T13:12:42-06:00</published>
-                                      <updated>2020-01-06T13:12:42-06:00</updated>
-                                      <id>http://localhost:4000/development/</id>
-                                      <content type="html">
-                                        <![CDATA[<figure><a href="http://localhost:4000development/"><img src="http://localhost:4000/photos/large/Development-686656.jpg" alt="Development" /></a></figure>
-                                      ]]>
-                                    </content>
-                                    <author>
-                                      <name>Clay Carson</name>
-                                      <uri>https://halliecarson.com</uri>
-                                    </author>
-                                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Development-686656.jpg" />
-                                      <media:content medium="image" url="http://localhost:4000/photos/large/Development-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
-                                      </entry>
-                                      <entry>
-                                        <title type="html">Way Out</title>
-                                        <link href="http://localhost:4000way-out/" rel="alternate" type="text/html" title="Way Out" />
-                                        <published>2020-01-06T13:11:31-06:00</published>
-                                        <updated>2020-01-06T13:11:31-06:00</updated>
-                                        <id>http://localhost:4000/way-out/</id>
-                                        <content type="html">
-                                          <![CDATA[<figure><a href="http://localhost:4000way-out/"><img src="http://localhost:4000/photos/large/Way%20Out-686656.jpg" alt="Way Out" /></a></figure>
-                                        ]]>
-                                      </content>
-                                      <author>
-                                        <name>Clay Carson</name>
-                                        <uri>https://halliecarson.com</uri>
-                                      </author>
-                                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Way%20Out-686656.jpg" />
-                                        <media:content medium="image" url="http://localhost:4000/photos/large/Way%20Out-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
-                                        </entry>
-                                        <entry>
-                                          <title type="html">Descending Into Austin</title>
-                                          <link href="http://localhost:4000descending-into-austin/" rel="alternate" type="text/html" title="Descending Into Austin" />
-                                          <published>2019-12-30T17:23:22-06:00</published>
-                                          <updated>2019-12-30T17:23:22-06:00</updated>
-                                          <id>http://localhost:4000/descending-into-austin/</id>
-                                          <content type="html">
-                                            <![CDATA[<figure><a href="http://localhost:4000descending-into-austin/"><img src="http://localhost:4000/photos/large/Descending%20Into%20Austin-686656.jpg" alt="Descending Into Austin" /></a></figure>
-                                          ]]>
-                                        </content>
-                                        <author>
-                                          <name>Clay Carson</name>
-                                          <uri>https://halliecarson.com</uri>
-                                        </author>
-                                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Descending%20Into%20Austin-686656.jpg" />
-                                          <media:content medium="image" url="http://localhost:4000/photos/large/Descending%20Into%20Austin-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
-                                          </entry>
-                                          <entry>
-                                            <title type="html">Fly Delta Jets</title>
-                                            <link href="http://localhost:4000fly-delta-jets/" rel="alternate" type="text/html" title="Fly Delta Jets" />
-                                            <published>2019-12-30T17:05:20-06:00</published>
-                                            <updated>2019-12-30T17:05:20-06:00</updated>
-                                            <id>http://localhost:4000/fly-delta-jets/</id>
-                                            <content type="html">
-                                              <![CDATA[<figure><a href="http://localhost:4000fly-delta-jets/"><img src="http://localhost:4000/photos/large/Fly%20Delta%20Jets-686656.jpg" alt="Fly Delta Jets" /></a></figure>
-                                            ]]>
-                                          </content>
-                                          <author>
-                                            <name>Clay Carson</name>
-                                            <uri>https://halliecarson.com</uri>
-                                          </author>
-                                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Fly%20Delta%20Jets-686656.jpg" />
-                                            <media:content medium="image" url="http://localhost:4000/photos/large/Fly%20Delta%20Jets-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
-                                            </entry>
-                                          </feed>
+                </feed>
