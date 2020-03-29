@@ -3,19 +3,19 @@
     <generator uri="https://github.com/maxvoltar/photo-stream">Photo Stream by @maxvoltar</generator>
     <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml" />
     <link href="http://localhost:4000" rel="alternate" type="text/html"/>
-    <updated>2020-03-29T16:16:09-05:00</updated>
-    <id>2020-03-29T16:16:09-05:00</id>
+    <updated>2020-03-29T16:41:31-05:00</updated>
+    <id>2020-03-29T16:41:31-05:00</id>
     <title type="html">Hallie Marie Carson</title>
     <subtitle></subtitle>
     <author>
       <name>Clay Carson</name>
-      <uri>https://halliecarson.com</uri>
+      <uri>https://halliecarson.com/</uri>
     </author>
     <entry>
       <title type="html">hallie-7</title>
       <link href="http://localhost:4000hallie-7/" rel="alternate" type="text/html" title="hallie-7" />
-      <published>2020-03-29T16:10:43-05:00</published>
-      <updated>2020-03-29T16:10:43-05:00</updated>
+      <published>2020-03-29T16:18:10-05:00</published>
+      <updated>2020-03-29T16:18:10-05:00</updated>
       <id>http://localhost:4000/hallie-7/</id>
       <content type="html">
         <![CDATA[<figure><a href="http://localhost:4000hallie-7/"><img src="http://localhost:4000/photos/large/hallie-7-686656.jpg" alt="hallie-7" /></a></figure>
@@ -23,7 +23,7 @@
     </content>
     <author>
       <name>Clay Carson</name>
-      <uri>https://halliecarson.com</uri>
+      <uri>https://halliecarson.com/</uri>
     </author>
     <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/hallie-7-686656.jpg" />
       <media:content medium="image" url="http://localhost:4000/photos/large/hallie-7-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
@@ -40,7 +40,7 @@
       </content>
       <author>
         <name>Clay Carson</name>
-        <uri>https://halliecarson.com</uri>
+        <uri>https://halliecarson.com/</uri>
       </author>
       <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/hallie-6-686656.jpg" />
         <media:content medium="image" url="http://localhost:4000/photos/large/hallie-6-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
@@ -57,7 +57,7 @@
         </content>
         <author>
           <name>Clay Carson</name>
-          <uri>https://halliecarson.com</uri>
+          <uri>https://halliecarson.com/</uri>
         </author>
         <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/hallie-5-686656.jpg" />
           <media:content medium="image" url="http://localhost:4000/photos/large/hallie-5-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
@@ -74,7 +74,7 @@
           </content>
           <author>
             <name>Clay Carson</name>
-            <uri>https://halliecarson.com</uri>
+            <uri>https://halliecarson.com/</uri>
           </author>
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/hallie-4-686656.jpg" />
             <media:content medium="image" url="http://localhost:4000/photos/large/hallie-4-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
@@ -91,7 +91,7 @@
             </content>
             <author>
               <name>Clay Carson</name>
-              <uri>https://halliecarson.com</uri>
+              <uri>https://halliecarson.com/</uri>
             </author>
             <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/hallie-3-686656.jpg" />
               <media:content medium="image" url="http://localhost:4000/photos/large/hallie-3-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
@@ -108,7 +108,7 @@
               </content>
               <author>
                 <name>Clay Carson</name>
-                <uri>https://halliecarson.com</uri>
+                <uri>https://halliecarson.com/</uri>
               </author>
               <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/hallie-2-686656.jpg" />
                 <media:content medium="image" url="http://localhost:4000/photos/large/hallie-2-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
@@ -125,7 +125,7 @@
                 </content>
                 <author>
                   <name>Clay Carson</name>
-                  <uri>https://halliecarson.com</uri>
+                  <uri>https://halliecarson.com/</uri>
                 </author>
                 <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/hallie-1-686656.jpg" />
                   <media:content medium="image" url="http://localhost:4000/photos/large/hallie-1-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
