@@ -72,11 +72,11 @@ body {
 	flex-grow: 1;
 	font: 16px/24px apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;;
 	background: #fff;
-	color: #2e2f30;
+	color: #222;
 
 	@include dark {
-		background: #000;
-		color: #eee;
+		background: #222;
+		color: #fff;
 	}	
 }
 
@@ -119,7 +119,7 @@ body {
 			width: auto;
 			object-fit: cover;
 			display: block;
-//		    filter: grayscale(100%); /* BW Version */	
+		    filter: grayscale(100%); /* BW Version */		
 		}
 
 		.open,
@@ -144,7 +144,7 @@ body {
 			&:hover,
 			&:focus {
 				background-color: rgba(0, 0, 0, .25);			
-
+				filter: none !important;
 			}
 
 			&:active {
@@ -438,7 +438,7 @@ body {
 header {
   display: block;
   background: #fff;
-  color: #333;
+  color: #222;
   display: flex;
   width: 100%;
   padding: 1.2rem;
@@ -448,6 +448,11 @@ header {
   top: 0;
   z-index: 1;
   box-shadow: 0 10px 20px -2px #555;
+  
+		@include dark {
+			background: #222;
+			color: #fff;
+		}	
 }
 
 // header span {
