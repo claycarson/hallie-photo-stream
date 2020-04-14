@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/user/photos.halliecarson.com/
+    - export DEPLOYPATH=/home/user/photo.halliecarson.com/
     - - /bin/cp -R _site $DEPLOYPATH
