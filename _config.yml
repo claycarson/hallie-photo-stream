@@ -55,6 +55,9 @@ image_processing:
     resize_to_fill: [1,1]
     saver:
       strip: true
+      
+deploy:
+  directory: _site      
 
 # Exclude from processing.
 # The following items will not be processed, by default.
