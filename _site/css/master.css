@@ -60,6 +60,7 @@ body { flex-grow: 1; font: 16px/24px apple-system,BlinkMacSystemFont,Helvetica,A
 .grid .item .next { cursor: e-resize; } }
 @keyframes fade-in { 0% { opacity: 0; }
 100% { opacity: 1; } }
-header { display: block; background: #fff; color: #222; display: flex; width: 100%; padding: 1.2rem; font-size: 2rem; font-weight: 700; position: fixed; top: 0; z-index: 1; box-shadow: 0 10px 20px -2px #555; }
+header { display: block; background: #fff; color: #222; display: flex; width: 100%; padding: 1.2rem; font-size: 2rem; font-weight: 700; position: fixed; text-align: center; top: 0; z-index: 1; box-shadow: 0 10px 20px -2px #555; }
 @media (prefers-color-scheme: dark) { header { background: #222; color: #fff; } }
+header span { margin-right: 20px; display: inline-block; font-size: 2.4rem; color: white; }
 /*# sourceMappingURL=master.css.map */
