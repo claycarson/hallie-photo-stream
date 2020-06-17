@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hallie Marie Carson
+title: Hallie Carson
 email: 
 author:
   name: Clay Carson
   email:  #optional
-  website: http://halliecarson.com/
+  website: https://halliecarson.com/
 description: >- # this means to ignore newlines until "baseurl:"
   
 baseurl: "/" # the subpath of your site, e.g. /blog
